@@ -1,6 +1,6 @@
 # spamer
-#apt update && apt upgrade
-#apt install git
+# apt update && apt upgrade
+# apt install git
 #apt install php
 #apt install python2
 #apt install curl
