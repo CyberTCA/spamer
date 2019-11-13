@@ -10,4 +10,3 @@
 # git clone https://github.com/fatonicyber/spamer
 # cd spamer
 # sh spamer.sh
-# https://m.youtube.com/channel/UCkoqlUeR59-foCsaMdQJOJw
